@@ -13,19 +13,19 @@
 
 ##### Programming languages
 
-JavaScript, Php, TypeScript, SQL
+JavaScript, Php, SQL, Python
 
 ____
 
 ##### FrontEnd Development
 
-Angular, Vue, JavaScript, HTML, CSS, Bootstrap, pug, hbs
+JavaScript, HTML, CSS, Bootstrap
 
 ____
 
 ##### Backend Development
 
-NodeJs, PHP, JavaScript
+Python, PHP, JavaScript
 
 _____
 
@@ -37,7 +37,7 @@ _____
 
  ##### Others
  
- FireBase, Postman, Git y Github, SourceTree...
+ FireBase, Postman, Git y Github...
 
  
 #### Algunos de mis proyectos:
